@@ -1,6 +1,12 @@
 body {
     background: #212121;
-    color: #21f221;
+    color: #f2f2f2;
     font-family: sans-serif;
+    padding: 1em;
 }
 
+h1 {
+    font-size: 18em;
+    padding-bottom: 1em;
+    color: #aaaaf2;
+}
